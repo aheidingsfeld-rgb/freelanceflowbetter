@@ -2,7 +2,7 @@
   "name": "FreelanceFlow - Hours & Income",
   "short_name": "FreelanceFlow",
   "description": "Track your hours and income, fully local on your own device.",
-  "start_url": "./freelanceflow_dashboard.html",
+  "start_url": "start_url": "./index.html",,
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
