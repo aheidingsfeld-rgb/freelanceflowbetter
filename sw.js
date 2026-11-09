@@ -1,6 +1,6 @@
 const CACHE = 'freelanceflow-v2';
 const CORE = [
-  './freelanceflow_dashboard.html',
+  ''./index.html',
   './manifest.json',
   './icon.svg'
 ];
